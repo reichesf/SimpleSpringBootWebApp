@@ -1,4 +1,4 @@
-SimpleWebApp
+SimpleSpringBootWebApp
 
 Simple web application using SpringBoot with a RestController. Does nothing
-more than simple GET.
+more than simple GETs.
