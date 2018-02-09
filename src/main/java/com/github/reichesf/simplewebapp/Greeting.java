@@ -1,4 +1,4 @@
-package com.kroger.is.simplewebapp;
+package com.github.reichesf.simplewebapp;
 
 import javax.xml.bind.DatatypeConverter;
 import javax.xml.bind.annotation.XmlAttribute;
